@@ -1,0 +1,12 @@
+name: CATA
+title: CATA
+username: mkniazev
+account: mkniazev
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 12914125
+bundleId: 9179283
+url: https://mkniazev.shinyapps.io/CATA/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
